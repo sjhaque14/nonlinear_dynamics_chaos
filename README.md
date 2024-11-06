@@ -1,2 +1,2 @@
-# nonlinear_dynamics_chaos
-Notebooks that demonstrate properties of nonlinear dynamical systems and chaotic systems. Used for MATH 404 at UMichigan.
+# MATH 404: Introduction to Nonlinear Dynamics and Chaos / Intermediate Differential Equations
+
